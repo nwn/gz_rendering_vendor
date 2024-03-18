@@ -7,7 +7,7 @@
   <description>Gazebo Rendering: Rendering library for robot applications</description>
   <maintainer email="addisuzt@intrinsic.ai">Addisu Z. Taddese</maintainer>
   <license>Apache License 2.0</license>
-  <url type="website">https://github.com/gazebosim/gz-fuel-tools</url>
+  <url type="website">https://github.com/gazebosim/gz-rendering</url>
 
   <buildtool_depend>ament_cmake_core</buildtool_depend>
   <buildtool_depend>ament_cmake_test</buildtool_depend>
