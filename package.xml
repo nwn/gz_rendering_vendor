@@ -35,7 +35,7 @@
   <depend>gz_math_vendor</depend>
   <depend>gz_plugin_vendor</depend>
   <depend>gz_utils_vendor</depend>
-  <depend>gazebo_ogre_next_vendor</depend>
+  <depend>gz_ogre_next_vendor</depend>
 
   <!-- Depend on the package we are vendoring to allow building it from source -->
   <depend condition="$GZ_BUILD_FROM_SOURCE != ''">gz-rendering8</depend>

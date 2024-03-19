@@ -19,7 +19,7 @@ index 6f7c114..f94f7e1 100644
    set(GZ_RENDERING_HAVE_OGRE TRUE)
  endif()
  
-+find_package(gazebo_ogre_next_vendor REQUIRED)
++find_package(gz_ogre_next_vendor REQUIRED)
  #--------------------------------------
  # Find OGRE2: first try to find OGRE2 built with PlanarReflections support and
  # fallback to look for OGRE2 without it. Both seems to works for gz-rendering.

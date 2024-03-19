@@ -24,7 +24,7 @@ find_package(gz_common_vendor REQUIRED)
 find_package(gz_math_vendor REQUIRED)
 find_package(gz_plugin_vendor REQUIRED)
 find_package(gz_utils_vendor REQUIRED)
-find_package(gazebo_ogre_next_vendor REQUIRED)
+find_package(gz_ogre_next_vendor REQUIRED)
 
 # Set the VERSION_MATCH to "EXACT" by default, but relax the requirement
 # if we are users are building from source (determined by the
@@ -68,7 +68,7 @@ ament_export_dependencies(
   gz_math_vendor
   gz_plugin_vendor
   gz_utils_vendor
-  gazebo_ogre_next_vendor
+  gz_ogre_next_vendor
 )
 
 if(NOT ${${LIB_NAME_FULL}_FOUND})
