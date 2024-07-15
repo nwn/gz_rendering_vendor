@@ -2,8 +2,8 @@
 Changelog for package gz_rendering_vendor
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.1 (2024-07-15)
+------------------
 * Update vendored package version to 8.2.0
 * Contributors: Addisu Z. Taddese
 
